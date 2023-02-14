@@ -90,24 +90,4 @@ Build 后的文件直接放在自己的服务器上即可。如果没有自己�
 > Tip: 本项目是一个「纯前端」项目，关键状态都保存在客户端（localStorage）中，毕竟是一个 MVP 的产品，也不会有谁的母亲/老婆/女友会删掉客户端状态重新抽(zuò)奖(bì)吧，不会吧不会吧？如果有觉得不稳妥的朋友，也可以改造成数据库中保存用户状态的模式。  
   
 <br><br><br>
-
-## :flags: 未来规划
-- 支持多种字体
-- 支持多种主题
-- 支持根据自定义抽奖模式（转盘 or 九宫格）
-- 更灵活的文案配置  
-  
-:star2: 如果 Giftie 对你有帮助，欢迎用 star 来表达对我的支持，Thx～   
-如果你希望第一时间 get 我的新开源项目，一定要记得在 Github 上关注我～
-  
-<br><br><br>
-
-## :star: Star 趋势
-[![Star History Chart](https://api.star-history.com/svg?repos=kkkyrie/giftie&type=Date)](https://star-history.com/#kkkyrie/giftie&Date)  
-实时更新中...
-
-<br><br><br>
-
-## :green_heart: 最后
-关注我的个人原创公众号，第一时间 get 更多好玩有趣的文章/项目，让前端变得更有趣 :stuck_out_tongue_closed_eyes:  
 <p align="center"><img width="350" alt="" src="https://kyrieliu.cn/images/qrcode2.jpg"></p>
