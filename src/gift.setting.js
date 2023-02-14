@@ -31,12 +31,12 @@ export const homeConfig = {
 // 图片放在 public/images 中，建议是正方形，否则影响视觉体验
 // name 是礼物的全称；alias 是礼物的简称（用来显示在抽奖方格里）
 export const gifts = [
-  { key: 'q', name: '音速500G币', alias: '500GB', image: '/images/1.png',  description: '有点少，算鼓励奖' },
-  { key: 'w', name: '音速1000G币', alias: '1000GB', image: '/images/2.png',  description: '还行吧，一件衣服？' },
-  { key: 'e', name: '音速2000G币', alias: '2000GB', image: '/images/3.png',  description: '可以可以，一个戒指？' },
-  { key: 'r', name: '520红包', alias: '520', image: '/images/6.png',  description: 'RMB的香气~' },
-  { key: 't', name: '音速5000G币', alias: '5000GB', image: '/images/5.png',  description: '有点东西，两个戒指？' },
-  { key: 'y', name: '音速10000G币', alias: '10000GB', image: '/images/6.png',  description: '666，可以累充了！' },
-  { key: 'u', name: '音速12000G币', alias: '12000GB', image: '/images/7.png',  description: '兔然暴富的滋味！' },
-  { key: 'i', name: '谢谢惠顾', alias: '谢谢惠顾', image: '/images/8.png',  description: 'Sorry，try again!' },
+  { key: 'q', name: '音速500G币', alias: '500GB', image: '/images/icon_GB.png',  description: '有点少，算鼓励奖' },
+  { key: 'w', name: '音速1000G币', alias: '1000GB', image: '/images/icon_GB.png',  description: '还行吧，一件衣服？' },
+  { key: 'e', name: '音速2000G币', alias: '2000GB', image: '/images/icon_GB.png',  description: '可以可以，一个戒指？' },
+  { key: 'r', name: '520红包', alias: '520', image: '/images/icon_RMB.png',  description: 'RMB的香气~' },
+  { key: 't', name: '音速5000G币', alias: '5000GB', image: '/images/icon_GB.png',  description: '有点东西，两个戒指？' },
+  { key: 'y', name: '音速10000G币', alias: '10000GB', image: '/images/icon_GB.png',  description: '666，可以累充了！' },
+  { key: 'u', name: '音速12000G币', alias: '12000GB', image: '/images/icon_GB.png',  description: '兔然暴富的滋味！' },
+  { key: 'i', name: '谢谢惠顾', alias: '谢谢惠顾', image: '/images/icon_cry.png',  description: 'Sorry，try again!' },
 ];
