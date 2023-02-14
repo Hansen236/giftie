@@ -17,7 +17,7 @@ export default {
     return {
       giftName: '',
       giftImageUrl: '',
-      isShowRestart: false,
+      isShowRestart: true,
     }
   },
   methods: {
